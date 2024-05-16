@@ -9,3 +9,6 @@ Removes the blocking modal when viewing "mature content". Redirect on old.reddit
 3. Click on the userscript manager icon and then click the plus icon.
 4. Overwrite the content of the editor with the content of `script.js` click save.
 5. Reload the page. The model should be gone.
+
+
+(script updated from https://github.com/calebvisage/shreddit-userscript)
