@@ -1,13 +1,4 @@
 // ==UserScript==
-// @name        bypass-mature-userscript - reddit.com
-// @namespace   Violentmonkey Scripts
-// @match       https://*.reddit.com/*
-// @grant       none
-// @version     1.0
-// @author      https://github.com/Esashiero
-// @description 2024/05/16, 10:32:51
-// ==/UserScript==
-// ==UserScript==
 // @name        Shreddit - reddit.com
 // @namespace   Violentmonkey Scripts
 // @match       https://*.reddit.com/*
@@ -23,7 +14,6 @@ const redirectToOldReddit = () => {
 	if (element) {
 		window.location.href = window.location.href.replace('www.', 'old.');
 	}
-	console.log("test")
 };
 
 
