@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name        Shreddit - reddit.com
+// @name        bypass-mature-userscript - reddit.com
 // @namespace   Violentmonkey Scripts
 // @match       https://*.reddit.com/*
 // @grant       none
-// @version     1.1
-// @author      https://github.com/calebvisage
-// @description 2023/11/06, 13:01:25
+// @version     1.0
+// @author      https://github.com/Esashiero
+// @description 2024/05/16, 10:32:51
 // ==/UserScript==
 
 (function () {
